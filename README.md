@@ -1,6 +1,6 @@
 #  Regular Expression Match a Hex Value
 
-This file is intend to describe the detials about specifc regular expression, in this exapmle we will be analyzing Hex value. The description 
+This file is intended to describe the details about specific regular expression, in this example we will be analyzing Hex value. The description 
 is going to be down below and how it works
 
 ## Summary
